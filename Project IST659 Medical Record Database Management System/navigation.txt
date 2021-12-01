@@ -1,0 +1,8 @@
+IST659-Fina_Project_Nianyou_Zhang.docx
+This should be viewed in Microsft Word. It is the original project report.
+
+IST659-Fina_Project_Nianyou_Zhang.sql
+This should be viewed in Microsoft SQL. It contains the full database.
+
+IST659_Final_Project_ERD_Nianyou_Zhang.vsdx
+This should be viewed in Microsoft Visio. It contains the entity relation diagram for the database.
